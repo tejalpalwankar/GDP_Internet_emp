@@ -20,35 +20,35 @@ penetration.
 ### Data Sources: 
 Three datasets were collected from https://data.un.org. 
 All are structured in csv format.
-○ GDP Data: The dataset includes information about GDP per 
+- GDP Data: The dataset includes information about GDP per 
 capita across different countries and years.
-○ Internet Usage Data: This dataset includes the percentage of 
+- Internet Usage Data: This dataset includes the percentage of 
 internet users for various countries and years.
-○ Employment Data: This dataset provides employment 
+- Employment Data: This dataset provides employment 
 information across countries, segmented by gender.
 
 ### Key Findings:
-• Internet Usage and Economic Growth: Higher internet usage is 
+- Internet Usage and Economic Growth: Higher internet usage is 
 positively correlated with increased GDP per capita, suggesting that 
 digital connectivity contributes to economic growth.
-• Employment and GDP Link: Stronger job markets are often seen in 
+- Employment and GDP Link: Stronger job markets are often seen in 
 countries with higher GDP per capita, highlighting the role of economic 
 stability in job creation.
-• Feedback Loop of Growth Factors: There is a cyclical relationship: 
+- Feedback Loop of Growth Factors: There is a cyclical relationship: 
 higher GDP enables investment in digital infrastructure, which enhances 
 internet accessibility, leading to more job opportunities and economic 
 stability.
-• Digital Divide Impact: Regions with limited internet access tend to have 
+- Digital Divide Impact: Regions with limited internet access tend to have 
 lower GDP per capita and higher unemployment, pointing to the need for 
 targeted efforts to address the digital divide.
 
 ### Implications:
-• Digital Connectivity as a Growth Catalyst: The internet plays a critical 
+- Digital Connectivity as a Growth Catalyst: The internet plays a critical 
 role in driving economic growth by improving access to information, 
 enabling remote work, and fostering innovation.
-• Interlinked Factors for Stability: Economic stability, employment, and 
+- Interlinked Factors for Stability: Economic stability, employment, and 
 digital infrastructure are interconnected, suggesting that policy 
 improvements in one area can positively influence the others.
-• Targeted Policy Action Needed: Bridging the digital divide is essential 
+- Targeted Policy Action Needed: Bridging the digital divide is essential 
 for ensuring equitable access to opportunities, particularly in 
 economically disadvantaged regions
